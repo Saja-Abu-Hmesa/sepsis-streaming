@@ -1,0 +1,15 @@
+{
+  "per_fold_seconds": {
+    "fold0": 19.669,
+    "fold1": 19.537,
+    "fold2": 20.022,
+    "fold3": 19.2,
+    "fold4": 32.773
+  },
+  "total_seconds": 111.201,
+  "labels_trained": [
+    "label_6h",
+    "label_12h",
+    "label_24h"
+  ]
+}

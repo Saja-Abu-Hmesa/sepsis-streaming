@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Raw MIMIC data (large, sensitive — not tracked in git)
+data/raw/
+
+# Spark checkpoints and temp files
+spark-warehouse/
+data/stream_output/_checkpoint_*/
+*.crc
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

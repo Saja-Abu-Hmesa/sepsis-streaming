@@ -1,0 +1,325 @@
+{
+  "created": "2026-05-08T17:07:34.752551Z",
+  "total_rows": 107768,
+  "n_files": 50,
+  "signals": [
+    "bilirubin",
+    "creatinine",
+    "dbp",
+    "heart_rate",
+    "lactate",
+    "map",
+    "platelets",
+    "resp_rate",
+    "sbp",
+    "spo2",
+    "temperature",
+    "wbc"
+  ],
+  "time_span": {
+    "min": "2102-08-29 14:03:00",
+    "max": "2202-10-11 04:45:00"
+  },
+  "files": [
+    {
+      "filename": "part-00001.csv",
+      "row_count": 2155,
+      "min_charttime": "2102-08-29 14:03:00",
+      "max_charttime": "2107-01-08 08:00:00"
+    },
+    {
+      "filename": "part-00002.csv",
+      "row_count": 2155,
+      "min_charttime": "2107-01-08 08:00:00",
+      "max_charttime": "2107-01-26 21:00:00"
+    },
+    {
+      "filename": "part-00003.csv",
+      "row_count": 2155,
+      "min_charttime": "2107-01-26 21:00:00",
+      "max_charttime": "2107-02-07 17:00:00"
+    },
+    {
+      "filename": "part-00004.csv",
+      "row_count": 2155,
+      "min_charttime": "2107-02-07 17:00:00",
+      "max_charttime": "2107-05-14 14:00:00"
+    },
+    {
+      "filename": "part-00005.csv",
+      "row_count": 2155,
+      "min_charttime": "2107-05-14 14:00:00",
+      "max_charttime": "2112-05-29 11:47:00"
+    },
+    {
+      "filename": "part-00006.csv",
+      "row_count": 2155,
+      "min_charttime": "2112-05-29 11:47:00",
+      "max_charttime": "2117-08-08 16:00:00"
+    },
+    {
+      "filename": "part-00007.csv",
+      "row_count": 2155,
+      "min_charttime": "2117-08-08 16:00:00",
+      "max_charttime": "2119-10-20 08:00:00"
+    },
+    {
+      "filename": "part-00008.csv",
+      "row_count": 2155,
+      "min_charttime": "2119-10-20 08:00:00",
+      "max_charttime": "2119-11-11 13:00:00"
+    },
+    {
+      "filename": "part-00009.csv",
+      "row_count": 2155,
+      "min_charttime": "2119-11-11 13:00:00",
+      "max_charttime": "2123-12-01 00:00:00"
+    },
+    {
+      "filename": "part-00010.csv",
+      "row_count": 2155,
+      "min_charttime": "2123-12-01 00:00:00",
+      "max_charttime": "2123-12-14 05:00:00"
+    },
+    {
+      "filename": "part-00011.csv",
+      "row_count": 2155,
+      "min_charttime": "2123-12-14 05:00:00",
+      "max_charttime": "2124-01-13 02:00:00"
+    },
+    {
+      "filename": "part-00012.csv",
+      "row_count": 2155,
+      "min_charttime": "2124-01-13 02:00:00",
+      "max_charttime": "2126-08-23 23:00:00"
+    },
+    {
+      "filename": "part-00013.csv",
+      "row_count": 2155,
+      "min_charttime": "2126-08-23 23:00:00",
+      "max_charttime": "2127-10-14 04:00:00"
+    },
+    {
+      "filename": "part-00014.csv",
+      "row_count": 2155,
+      "min_charttime": "2127-10-14 04:00:00",
+      "max_charttime": "2127-10-27 15:00:00"
+    },
+    {
+      "filename": "part-00015.csv",
+      "row_count": 2155,
+      "min_charttime": "2127-10-27 15:00:00",
+      "max_charttime": "2129-11-27 03:30:00"
+    },
+    {
+      "filename": "part-00016.csv",
+      "row_count": 2155,
+      "min_charttime": "2129-11-27 04:00:00",
+      "max_charttime": "2130-08-15 14:07:00"
+    },
+    {
+      "filename": "part-00017.csv",
+      "row_count": 2155,
+      "min_charttime": "2130-08-15 15:00:00",
+      "max_charttime": "2138-11-14 15:00:00"
+    },
+    {
+      "filename": "part-00018.csv",
+      "row_count": 2155,
+      "min_charttime": "2138-11-14 15:00:00",
+      "max_charttime": "2144-07-14 10:00:00"
+    },
+    {
+      "filename": "part-00019.csv",
+      "row_count": 2155,
+      "min_charttime": "2144-07-14 10:00:00",
+      "max_charttime": "2144-07-26 02:00:00"
+    },
+    {
+      "filename": "part-00020.csv",
+      "row_count": 2155,
+      "min_charttime": "2144-07-26 02:00:00",
+      "max_charttime": "2144-10-18 15:58:00"
+    },
+    {
+      "filename": "part-00021.csv",
+      "row_count": 2155,
+      "min_charttime": "2144-10-18 16:00:00",
+      "max_charttime": "2145-07-07 02:30:00"
+    },
+    {
+      "filename": "part-00022.csv",
+      "row_count": 2155,
+      "min_charttime": "2145-07-07 02:30:00",
+      "max_charttime": "2145-12-03 01:00:00"
+    },
+    {
+      "filename": "part-00023.csv",
+      "row_count": 2155,
+      "min_charttime": "2145-12-03 01:00:00",
+      "max_charttime": "2147-02-07 13:45:00"
+    },
+    {
+      "filename": "part-00024.csv",
+      "row_count": 2155,
+      "min_charttime": "2147-02-07 13:45:00",
+      "max_charttime": "2147-10-05 17:00:00"
+    },
+    {
+      "filename": "part-00025.csv",
+      "row_count": 2155,
+      "min_charttime": "2147-10-05 17:00:00",
+      "max_charttime": "2147-10-18 21:00:00"
+    },
+    {
+      "filename": "part-00026.csv",
+      "row_count": 2155,
+      "min_charttime": "2147-10-18 21:00:00",
+      "max_charttime": "2148-01-14 17:00:00"
+    },
+    {
+      "filename": "part-00027.csv",
+      "row_count": 2155,
+      "min_charttime": "2148-01-14 17:00:00",
+      "max_charttime": "2150-08-25 14:00:00"
+    },
+    {
+      "filename": "part-00028.csv",
+      "row_count": 2155,
+      "min_charttime": "2150-08-25 14:00:00",
+      "max_charttime": "2155-12-16 18:27:00"
+    },
+    {
+      "filename": "part-00029.csv",
+      "row_count": 2155,
+      "min_charttime": "2155-12-16 18:27:00",
+      "max_charttime": "2163-05-14 23:00:00"
+    },
+    {
+      "filename": "part-00030.csv",
+      "row_count": 2155,
+      "min_charttime": "2163-05-14 23:15:00",
+      "max_charttime": "2166-02-15 21:15:00"
+    },
+    {
+      "filename": "part-00031.csv",
+      "row_count": 2155,
+      "min_charttime": "2166-02-15 21:15:00",
+      "max_charttime": "2169-05-07 07:26:00"
+    },
+    {
+      "filename": "part-00032.csv",
+      "row_count": 2155,
+      "min_charttime": "2169-05-07 07:26:00",
+      "max_charttime": "2171-07-15 03:00:00"
+    },
+    {
+      "filename": "part-00033.csv",
+      "row_count": 2155,
+      "min_charttime": "2171-07-15 03:00:00",
+      "max_charttime": "2171-07-24 06:00:00"
+    },
+    {
+      "filename": "part-00034.csv",
+      "row_count": 2155,
+      "min_charttime": "2171-07-24 06:00:00",
+      "max_charttime": "2171-08-02 22:00:00"
+    },
+    {
+      "filename": "part-00035.csv",
+      "row_count": 2155,
+      "min_charttime": "2171-08-02 22:00:00",
+      "max_charttime": "2171-08-10 10:00:00"
+    },
+    {
+      "filename": "part-00036.csv",
+      "row_count": 2155,
+      "min_charttime": "2171-08-10 10:00:00",
+      "max_charttime": "2171-11-01 08:00:00"
+    },
+    {
+      "filename": "part-00037.csv",
+      "row_count": 2155,
+      "min_charttime": "2171-11-01 08:00:00",
+      "max_charttime": "2180-01-21 20:00:00"
+    },
+    {
+      "filename": "part-00038.csv",
+      "row_count": 2155,
+      "min_charttime": "2180-01-21 20:00:00",
+      "max_charttime": "2180-03-02 20:00:00"
+    },
+    {
+      "filename": "part-00039.csv",
+      "row_count": 2155,
+      "min_charttime": "2180-03-02 20:00:00",
+      "max_charttime": "2185-04-15 12:00:00"
+    },
+    {
+      "filename": "part-00040.csv",
+      "row_count": 2155,
+      "min_charttime": "2185-04-15 12:00:00",
+      "max_charttime": "2188-02-21 00:30:00"
+    },
+    {
+      "filename": "part-00041.csv",
+      "row_count": 2155,
+      "min_charttime": "2188-02-21 00:30:00",
+      "max_charttime": "2190-07-16 02:00:00"
+    },
+    {
+      "filename": "part-00042.csv",
+      "row_count": 2155,
+      "min_charttime": "2190-07-16 03:00:00",
+      "max_charttime": "2192-04-26 01:00:00"
+    },
+    {
+      "filename": "part-00043.csv",
+      "row_count": 2155,
+      "min_charttime": "2192-04-26 01:00:00",
+      "max_charttime": "2192-05-12 06:00:00"
+    },
+    {
+      "filename": "part-00044.csv",
+      "row_count": 2155,
+      "min_charttime": "2192-05-12 06:00:00",
+      "max_charttime": "2195-05-18 16:00:00"
+    },
+    {
+      "filename": "part-00045.csv",
+      "row_count": 2155,
+      "min_charttime": "2195-05-18 16:00:00",
+      "max_charttime": "2198-07-03 22:00:00"
+    },
+    {
+      "filename": "part-00046.csv",
+      "row_count": 2155,
+      "min_charttime": "2198-07-03 22:00:00",
+      "max_charttime": "2198-07-14 05:00:00"
+    },
+    {
+      "filename": "part-00047.csv",
+      "row_count": 2155,
+      "min_charttime": "2198-07-14 05:00:00",
+      "max_charttime": "2199-01-16 03:30:00"
+    },
+    {
+      "filename": "part-00048.csv",
+      "row_count": 2155,
+      "min_charttime": "2199-01-16 03:30:00",
+      "max_charttime": "2200-03-19 14:00:00"
+    },
+    {
+      "filename": "part-00049.csv",
+      "row_count": 2155,
+      "min_charttime": "2200-03-19 14:00:00",
+      "max_charttime": "2200-11-01 09:00:00"
+    },
+    {
+      "filename": "part-00050.csv",
+      "row_count": 2173,
+      "min_charttime": "2200-11-01 09:00:00",
+      "max_charttime": "2202-10-11 04:45:00"
+    }
+  ]
+}

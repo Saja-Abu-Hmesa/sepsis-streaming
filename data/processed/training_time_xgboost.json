@@ -1,0 +1,25 @@
+{
+  "per_fold_seconds": {
+    "label_6h_fold0": 1.289,
+    "label_6h_fold1": 1.012,
+    "label_6h_fold2": 0.381,
+    "label_6h_fold3": 0.518,
+    "label_6h_fold4": 0.313,
+    "label_12h_fold0": 0.734,
+    "label_12h_fold1": 0.469,
+    "label_12h_fold2": 0.267,
+    "label_12h_fold3": 0.444,
+    "label_12h_fold4": 0.375,
+    "label_24h_fold0": 0.746,
+    "label_24h_fold1": 0.442,
+    "label_24h_fold2": 0.312,
+    "label_24h_fold3": 0.832,
+    "label_24h_fold4": 0.353
+  },
+  "total_seconds": 8.487,
+  "labels_trained": [
+    "label_6h",
+    "label_12h",
+    "label_24h"
+  ]
+}

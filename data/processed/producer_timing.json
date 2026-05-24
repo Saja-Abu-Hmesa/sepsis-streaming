@@ -1,0 +1,7 @@
+{
+  "producer_start_ms": 1778834327412,
+  "producer_end_ms": 1778834333651,
+  "total_messages": 107768,
+  "elapsed_seconds": 4.34,
+  "avg_throughput_msg_per_sec": 24829.1
+}

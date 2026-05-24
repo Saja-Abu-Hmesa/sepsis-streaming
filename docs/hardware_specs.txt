@@ -1,0 +1,26 @@
+==============================================================
+Hardware Specifications -- Sepsis Streaming Pipeline
+Captured: 2026-05-13 20:20:25
+==============================================================
+
+CPU
+---
+
+Name                      : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+NumberOfCores             : 4
+NumberOfLogicalProcessors : 8
+MaxClockSpeed             : 2419
+
+
+RAM
+---
+Total RAM: 8 GB
+
+OS
+--
+
+Caption        : Microsoft Windows 11 Pro
+Version        : 10.0.26200
+OSArchitecture : 64-bit
+
+

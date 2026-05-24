@@ -1,0 +1,16 @@
+{
+  "p50_latency_ms": 218000.0,
+  "p95_latency_ms": 218000.0,
+  "p99_latency_ms": 218000.0,
+  "mean_latency_ms": 218000.0,
+  "min_latency_ms": 218000.0,
+  "max_latency_ms": 218000.0,
+  "total_windows_scored": 28890,
+  "total_events": 215530,
+  "alerts_6h": 28890,
+  "alerts_12h": 3385,
+  "alerts_24h": 3592,
+  "mean_score_6h": 0.3804,
+  "mean_score_12h": 0.1195,
+  "mean_score_24h": 0.1325
+}
