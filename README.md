@@ -1,6 +1,6 @@
 # Sepsis Early Warning — Real-Time Streaming Pipeline
 
-This project builds a real-time pipeline to predict sepsis early using ICU data from MIMIC-III.
+This project builds a real-time workflow to predict sepsis early using ICU data from MIMIC-III.
 It streams patient vitals through Kafka, processes them with Spark Structured Streaming, and runs XGBoost + LSTM models to flag patients at risk.
 
 ## What I used
